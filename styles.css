@@ -1,0 +1,20 @@
+body{
+	font-family: 'Cabin', sans-serif;
+	background: #F3C7A2;
+}
+h1{
+
+	font-family: 'Cabin', sans-serif, strong,;
+	background:#796FD9;
+
+}
+header{
+	font-family: 'PT Serif', serif;
+	background:#9EDFBE;
+}
+main {
+	max-width: 800px;
+	width: 90%;
+	margin: auto;
+	padding: 40px;
+}
